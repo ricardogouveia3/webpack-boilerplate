@@ -1,0 +1,5 @@
+node_modules/
+_legacy/
+.sass-cache/
+.DS_Store
+*.map
